@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 
-## Hi 👋 My name is Dave
+## Hi 👋 My name is Dave (aka bones)
 ### Software Architect
 Learning and having fun via open-source, be kind :D </br>
 Delivered solutions/value, really enjoy the software quality aspects </br>
-Currently lead up a Platform Enginering team. (alot of my code is still in private repos)</br>
+Currently lead up a Platform Enginering team. </br>
+(alot of my code is still in private repos)</br>
 
 - 🌍  I'm based in United Kingdom
 - 🖥️  See my portfolio at [my-lab](http://github.com/dbones-labs)
